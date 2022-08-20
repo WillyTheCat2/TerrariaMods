@@ -1,0 +1,3 @@
+displayName = TestMod
+author = WillyTheCat
+version = 0.1
